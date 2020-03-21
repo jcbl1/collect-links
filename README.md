@@ -3,7 +3,7 @@
 
 ## This file in other languages
 [简体中文](zh-simplified.md)  
-[繁体中文](zh-traditional.md)
+[繁体中文](zh-traditional.md)  
 [韩语](kr.md)  
 [日语](jp.md)  
 
